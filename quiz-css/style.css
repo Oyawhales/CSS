@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700&family=Roboto:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700&family=Open+Sans:wght@500&family=Roboto:wght@300&display=swap");
+
+body {
+  background-color: #d3d3d3;
+  padding-top: 1rem;
+  margin: 0;
+  color: black;
+  font-size: 1.2em;
+  line-height: 1.5rem;
+  width: 93vw;
+}
+input[type=submit]{
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+/* body {
+    background-image: url("./design/JAMB-Logo.png");
+    height: 200px; width: 100px;
+    background-repeat: no-repeat;
+    background-position:30px 10px ;
+    background-size: cover;
+
+} */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ol {
+  margin: 25px;
+  padding: 10px;
+}
+h3 {
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 1.2rem;
+}
+h5 {
+  font-size: 1.2rem;
+  text-transform: capitalize;
+  margin: 0;
+}
+
+h5,
+h3,
+ol,
+p {
+  font-family: "Roboto", sans-serif;
+}
+
+fieldset label {
+  font-family: "Open Sans", sans-serif;
+}
+
+fieldset {
+  margin: 10px;
+  padding-left: 25px;
+  padding-right: 30px;
+  width: 93vw;
+}
