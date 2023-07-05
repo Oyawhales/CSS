@@ -2,7 +2,7 @@
 
 ## Welcome! 👋😊
 
-Welcome to my front-end codind project platform
+Welcome to my front-end coding project platform
 
 This challenge had improved coding based on a realistic projects.
 
