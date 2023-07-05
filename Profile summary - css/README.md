@@ -8,4 +8,4 @@ This challenge had improved coding based on a realistic projects.
 
 ## Project Aim
 
-- SO i designed a profile summary of myself
+- So i designed a profile summary of myself
